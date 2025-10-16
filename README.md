@@ -18,6 +18,6 @@ Fight enemies, survive battles, and become a hero in the Shattered Realms!
 
 ## ▶️ How to Play
 1. Download `ShatteredRealms_v1.0.exe` from the **Releases** section.
-2. Run the `.exe` file — a console window will open.
+2. Run the `.exe` file  a console window will open.
 3. Choose **“Play Game”** and follow the on-screen instructions.
-4. Defeat your enemy to claim victory — or fall in battle!
+4. Defeat your enemy to claim victory or fall in battle!
