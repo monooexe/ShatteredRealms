@@ -1,18 +1,26 @@
-# ⚔️ Shattered Realms v1.0
+# ⚔️ Shattered Realms
 
-A simple **text-based RPG** written in **C++**.  
-Fight enemies, survive battles, and become a hero in the Shattered Realms!
+**Version:** 1.0  
+**Engine:** C++ (Text-based RPG)  
+**Author:** Mono  
 
 ---
 
-## 🧭 Features
-- 🧙‍♂️ Create your own hero (choose a name)
-- 🧌 Random enemies (Goblin, Skeleton, Orc)
-- ⚔️ Turn-based combat system
-- ❤️ Health and attack stats
-- 🛡️ Win / Lose outcomes
-- 💻 Safe input handling (no `system()` calls)
-- 🧰 Built to run on any Windows 64-bit system (antivirus-safe)
+## 🧙 Overview
+
+Shattered Realms is a **text-based fantasy RPG** where you explore dark lands, fight enemies, and grow stronger.  
+This is the **first full release (v1.0)** a stable foundation for future updates.
+
+---
+
+## 🕹️ Features
+
+- Basic combat (attack, defend, run)
+- XP and gold rewards
+- Health restoration system
+- Player stats display
+- Randomized encounters
+- Simple text-based UI
 
 ---
 
